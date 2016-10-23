@@ -106,3 +106,8 @@ Para ajudá-los irei co-orientar seus TCCs pois os mesmos irão utiizar alguma(s
   - Jataí, Goiás
   - Análise e Desenvolvimento de Sistemas
   - IFG
+- Phellipe Lins
+  - [phellipelins](https://github.com/phellipelins)
+  - João Pessoa, Paraíba
+  - Desenvolvimento de Aplicações para Web
+  - UNIPE-JP
